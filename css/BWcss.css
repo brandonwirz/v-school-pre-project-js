@@ -1,0 +1,35 @@
+body{
+    background-color: white;
+}
+
+#colorNames{
+
+}
+
+#button, #button2, #button3, #button4{
+   font-family: "Times New Roman", Times, serif;
+   font-size: 1em;
+   display: block;
+   border-radius: 2px;
+   text-align: center;
+   background-color: #23479E;
+   color: white;
+   width:160px;
+   height:20px;
+   text-decoration: none;
+   padding:10px 0 10px 0;
+   cursor: pointer;
+   z-index: 1;
+   margin-top: 10px;
+   position: relative;
+}
+
+#numLength,#favColor,#favColorTimes,#colorChange{
+  padding:10px 0 10px 0;
+  width:800px;
+  color:#666666;
+  height:80px;
+  overflow:auto;
+  z-index: 1;
+  position: relative;
+}
