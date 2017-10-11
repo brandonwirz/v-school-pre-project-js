@@ -5,7 +5,7 @@ var myText = "";
 for (var i = 0; i < colors.length; i++){
     myText += colors[i].toString() + " ";
 }
-//join(", ")
+//join(", ")44444444444444
 document.getElementById("colorNames").innerHTML = myText;
 document.getElementById("colorNames").style.fontWeight = 'bold';
 
